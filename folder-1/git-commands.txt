@@ -1,0 +1,8 @@
+git -v
+git init
+git add .
+
+
+
+workingDirectory --- Staging area ---- \
+git Local repository ---Remote repository
